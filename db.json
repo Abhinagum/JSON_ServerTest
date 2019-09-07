@@ -1,19 +1,22 @@
-{
-  "profiles" : [
-                {
-                  "id":1,
-                  "name":"abhi",
-                  "age":27
-                },
-                {
-                  "id":2,
-                  "name":"naga",
-                  "age":32
-                },
-                {
-                  "id":3,
-                  "name":"rama",
-                  "age":32
-                }
-               ]
-}
+[
+    {
+      "categoryName": "Shoes",
+      "products": [
+        {
+          "productId": "1",
+          "brandName": "Adidas"
+        }
+      ]
+    },
+    {
+      "categoryName": "Jeans",
+      "products": [
+        {
+          "productId": "2",
+          "brandName": "LEVIS"
+        },
+        {
+          "productId": "2",
+          "brandName": "LEVIS"
+        }
+      ]
